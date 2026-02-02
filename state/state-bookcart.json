@@ -27,11 +27,11 @@
       "localStorage": [
         {
           "name": "userId",
-          "value": "44450"
+          "value": "52448"
         },
         {
           "name": "authToken",
-          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZWxlbmEtdGVzdCIsInN1YiI6IlVzZXIiLCJqdGkiOiI4NDgzODFlMC0yY2VjLTRmYTQtODQwYi1jNDAwZTlmODdmYzMiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwidXNlcklkIjoiMTM0MDIiLCJleHAiOjE3NjgwNTkyODksImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyJ9.eZHK47ZPkkZwtVlSV-cIpoCc31JPmPJENzcxREiUB_U"
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZWxlbmEtdGVzdCIsInN1YiI6IlVzZXIiLCJqdGkiOiI0YjU5OWJmYS1hOTBlLTQ4MTctYjRmZC1iZTI4NTlkZmYzMTgiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwidXNlcklkIjoiMTM0MDIiLCJleHAiOjE3Njk2MTQxNDcsImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyJ9.WaUpGVGIazOWD3EIEPHErz3ze6wlcoZCiHzq0x_DlgA"
         }
       ]
     }

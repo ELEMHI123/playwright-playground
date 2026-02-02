@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": "ARRAffinity",
-      "value": "f5a3c078cda30b7a72eb318a56bc22c3a7bd8720bca4f58a5a4d6f638aa015f2",
+      "value": "b3eca745e2d5a78c3c6cfbb50dddb41f820b581941b1806806f01ddb82cb47a6",
       "domain": ".bookcart.azurewebsites.net",
       "path": "/",
       "expires": -1,
@@ -12,7 +12,7 @@
     },
     {
       "name": "ARRAffinitySameSite",
-      "value": "f5a3c078cda30b7a72eb318a56bc22c3a7bd8720bca4f58a5a4d6f638aa015f2",
+      "value": "b3eca745e2d5a78c3c6cfbb50dddb41f820b581941b1806806f01ddb82cb47a6",
       "domain": ".bookcart.azurewebsites.net",
       "path": "/",
       "expires": -1,
@@ -27,11 +27,11 @@
       "localStorage": [
         {
           "name": "userId",
-          "value": "52448"
+          "value": "76170"
         },
         {
           "name": "authToken",
-          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZWxlbmEtdGVzdCIsInN1YiI6IlVzZXIiLCJqdGkiOiI0YjU5OWJmYS1hOTBlLTQ4MTctYjRmZC1iZTI4NTlkZmYzMTgiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwidXNlcklkIjoiMTM0MDIiLCJleHAiOjE3Njk2MTQxNDcsImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyJ9.WaUpGVGIazOWD3EIEPHErz3ze6wlcoZCiHzq0x_DlgA"
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiZWxlbmEtdGVzdCIsInN1YiI6IlVzZXIiLCJqdGkiOiJiYzMwNjk1Ny1iYjJhLTQwZDYtODM2Zi05NzE3YzM5Mjk4Y2UiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJVc2VyIiwidXNlcklkIjoiMTM0MDIiLCJleHAiOjE3NzAxMDMxMjQsImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyJ9.k0c4PaA_FmQbVVOV6Sn7dHy7TPQAeQ8e1Rg6sc9Do1o"
         }
       ]
     }

@@ -1,9 +1,12 @@
 import { defineConfig, devices } from '@playwright/test';
+import dotenv from 'dotenv';
+import path from 'path';
 
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
  */
+dotenv.config({ path: path.resolve(process.cwd(), '.env') });
 // import dotenv from 'dotenv';
 // import path from 'path';
 // dotenv.config({ path: path.resolve(__dirname, '.env') });
@@ -28,14 +31,14 @@ export default defineConfig({
     /* Base URL to use in actions like `await page.goto('')`. */
     // baseURL: 'http://localhost:3000',
     launchOptions: {
-  chromiumSandbox: false,
-  args: ['--no-sandbox', '--disable-setuid-sandbox', '--window-size=1920,1080'],
-},
+      chromiumSandbox: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox', '--window-size=1920,1080'],
+    },
 
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-   // storageState: 'auth.json'
+    // storageState: 'auth.json'
   },
 
   /* Configure projects for major browsers */
